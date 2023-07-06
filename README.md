@@ -3,7 +3,7 @@
 
 ## Portfolio
 
-[![](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https:/chasesng.vercel.app/)
+[![](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://www.chasesng.vercel.app/)
 
 
 ## 🔗 Links
